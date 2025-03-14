@@ -1,4 +1,4 @@
-#**growth-reflection-exercise**
+## **growth-reflection-exercise**
 
 This document contains my responses to the Growth Reflection Exercise.
 
@@ -37,7 +37,7 @@ Getting better at studying and practicing more, also taking a break from using d
 
 ### Sample Questions to Ask Yourself:
 - What study methods or resources can help you improve?
-  **Answer:** 
+  **Answer:** I have currently developed some study plans which would help me and have gotten sits which can help in giving me challenges and aiding in my growth 
 - Who can support you or help you learn more effectively?
   **Answer:** My mum and sisters
 - What would happen if you don't take action towards your goals?
@@ -47,7 +47,7 @@ Getting better at studying and practicing more, also taking a break from using d
 
 ## Will: What actions will you take next?
 **Answer:**  
-(Write your answer here)
+Get better at studying, Start moving to more advanced topics slowly but surely, also i'll need to start studying ther subjects which would be taught in school.
 
 ### Sample Questions to Ask Yourself:
 - What steps are you ready to start with right now?
@@ -55,4 +55,6 @@ Getting better at studying and practicing more, also taking a break from using d
 - How will you track your progress?
  **Answer:** I'll have my sisters give a report to my mum daily or weekly on my progress or ill ask my mum to consult you on my progress
 - What challenges might you face, and how will you handle them?
+  **Answer:** The challenges i might face wheile studying would be my procastination which am trying to solve. The use of debit card in sites i would need to use to study for cloud computing and using cloud computing platforms, For these i'll ask my parents to help me with it. These are all the problems for now
+  
 This document contains my responses to the Growth Reflection Exercise.
