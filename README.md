@@ -33,12 +33,15 @@ Am still in the basics of python, and i need to build myself up more so that i c
 
 ## Options: What steps can help you reach your goals?
 **Answer:**  
-Getting etter at studying and practicing more, also taking a break from using devices to much
+Getting better at studying and practicing more, also taking a break from using devices to much
 
 ### Sample Questions to Ask Yourself:
 - What study methods or resources can help you improve?
+  **Answer:** 
 - Who can support you or help you learn more effectively?
+  **Answer:** My mum and sisters
 - What would happen if you don't take action towards your goals?
+ **Answer:** I would lose my way forward and would have to change courses in school
 
 ---
 
