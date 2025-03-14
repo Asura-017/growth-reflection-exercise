@@ -51,6 +51,7 @@ Getting better at studying and practicing more, also taking a break from using d
 
 ### Sample Questions to Ask Yourself:
 - What steps are you ready to start with right now?
+  **Answer:** Am ready to start studying for hours and slowly moving towards harder topics and chalenges in python
 - How will you track your progress?
 - What challenges might you face, and how will you handle them?
 This document contains my responses to the Growth Reflection Exercise.
