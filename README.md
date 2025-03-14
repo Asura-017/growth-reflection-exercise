@@ -1,4 +1,4 @@
-## **growth-reflection-exercise**
+## **Growth-Reflection-Exercise**
 
 This document contains my responses to the Growth Reflection Exercise.
 
